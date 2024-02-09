@@ -1,6 +1,6 @@
 # DEV FEATURES FOR GPT 3.5 
 
-an open-source project that enhances the capabilities of GPT by integrating it with various Python libraries and APIs for web scraping, information retrivial, file interaction, and streamlit user interface.
+An open-source project that enhances the capabilities of GPT by integrating it with various Python libraries and APIs for web scraping, information retrivial, file interaction, and streamlit user interface.
 
 
 To install the required packages, run the following command in your terminal:
